@@ -15,7 +15,7 @@ articles.
 
 ## License
 
-Copyright (c) 2019-present Olaolu Olawuyi. All rights reserved.
+Copyright (c) 2024-present Surya. All rights reserved.
 
 **The code, design and articles in this repository are intellectual property of
 the individual mentioned above (unless otherwise stated) and as such CANNOT be
