@@ -1,4 +1,4 @@
-## Olaolu's website
+## Surya's website
 
 This repo is home for the codebase that powers my entire website and shelf of
 articles.
